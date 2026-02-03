@@ -2,9 +2,15 @@
 <!--  Toyota Stock EDA     -->
 <!-- ===================== -->
 
+
+
+
 <p align="center">
-  <img src="Toyota.png" alt="تحليل سهم تويوتا" width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/toyota-stock-analysis-a-comprehensive-eda" target="_blank">
+    <img src="Toyota.png" alt="Toyota Stock Analysis" width="500">
+  </a>
 </p>
+
 
 ---
 
