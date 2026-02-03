@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/code/hassanjameelahmed/toyota-stock-analysis-a-comprehensive-eda" target="_blank">
-    <img src="Toyota.png" alt="Toyota Stock Analysis" width="500">
+    <img src="Toyota.png" alt="Toyota Stock Analysis" width="800">
   </a>
 </p>
 
